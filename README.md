@@ -2,6 +2,8 @@
 
 Program for running smart factory under centralized client-server, decentralized client-server or decentralized peer-to-peer control.
 
+Example videos can be found from folder "videos".
+
 # Running program
 
 Each program are run its onw terminal and ROS setup.bash should be run on each terminal.
